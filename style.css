@@ -1,0 +1,16 @@
+{
+   margin: 0;
+   padding: 0;
+   box-sizinh: border-box;
+   font-familu: 'poppins', sans-serif
+}
+
+.container{
+  width: 100%
+  min-height: 100vh;
+  padding: 5%;
+  background-image: linear-gradient(rgba(0,8,51,0.9),rgba(0,8,51,0.9)), url(images/background.jpeg);
+  background-position: center;
+  background-size: cover;
+  
+}
