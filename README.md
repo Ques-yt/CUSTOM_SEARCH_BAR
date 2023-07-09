@@ -1,2 +1,3 @@
-# CUSTOM_SEARCH_BAR
-Custom search bar
+<h1> CUSTOM SEARCH BAR </h1>
+
+<h4> MADE BY @GW_TITHU </h4>
